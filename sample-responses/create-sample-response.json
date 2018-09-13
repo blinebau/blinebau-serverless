@@ -1,0 +1,8 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": true
+    },
+    "body": "{\"userId\":\"USER-SUB-1234\",\"noteId\":\"615e8ee0-b243-11e8-847b-51306773acc8\",\"content\":\"hello world\",\"attachment\":\"hello.jpg\",\"createdAt\":1536286310094}"
+}
